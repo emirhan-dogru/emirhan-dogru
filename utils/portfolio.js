@@ -51,7 +51,7 @@ export const portfolio = [
     id: 10,
     lang: [7, 3, 9],
     image: "/images/projects/weather.png",
-    href: "",
+    href: "https://play.google.com/store/apps/details?id=com.novasoftware.weather",
     tr: {
       title: "Hava durumu Mobil Uygulama ",
       description: "Canlı hava durumu takip sistemi",
@@ -79,7 +79,7 @@ export const portfolio = [
     id: 30,
     lang: [7, 3, 9],
     image: "/images/projects/radioapp.png",
-    href: "",
+    href: "https://play.google.com/store/apps/details?id=com.novasoftware.radiofm",
     tr: {
       title: "Canlı Radyo Mobil Uygulaması",
       description: "Radyo Dünyası: 80.000+ istasyonla müziğinizi keşfedin! Favori şarkılarınızı dinleyin, yeni tarzlar keşfedin ve dünyanın dört bir yanındaki radyo istasyonlarından canlı yayınları dinleyin.",
