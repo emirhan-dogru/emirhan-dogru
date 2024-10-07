@@ -90,15 +90,6 @@ export const educations = [
     years: "2021 - 2022",
     location: "İSTANBUL ",
   },
-  {
-    id: 3,
-    title: {
-      tr : "Edirne Anadolu ve Meslek Lisesi",
-      en : "Edirne Anatolian and Vocational High School"
-    },
-    years: "2016 - 2020",
-    location: "EDİRNE",
-  },
 ];
 
 export const social = [
